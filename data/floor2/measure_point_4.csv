@@ -1,0 +1,19 @@
+"eduroam",00:23:33:2b:d3:52,[WPA-EAP-CCMP][WPA2-EAP-CCMP][ESS][BLE],2462 MHz,Channel 11,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"eduroam",00:23:33:2c:11:f2,[WPA-EAP-CCMP][WPA2-EAP-CCMP][ESS][BLE],2412 MHz,Channel 1,-83 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"AGH-WPA",00:23:33:2c:11:f1,[WPA-EAP-CCMP][WPA2-EAP-CCMP][ESS][BLE],2412 MHz,Channel 1,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"AGH-WPA",00:23:33:2b:d3:51,[WPA-EAP-CCMP][WPA2-EAP-CCMP][ESS][BLE],2462 MHz,Channel 11,-95 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"Creative",e4:be:ed:12:c0:5e,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2437 MHz,Channel 6,-96 dBm,CenterFreq0 2447 MHz,CenterFreq1 0 MHz,ChannelWidth 40 MHz
+"AGH-Events",00:23:33:2b:d3:53,[ESS][BLE],2462 MHz,Channel 11,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"AGH-Guest",00:23:33:2c:11:f0,[ESS][BLE],2412 MHz,Channel 1,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"AGH-Guest",00:23:33:2b:d3:50,[ESS][BLE],2462 MHz,Channel 11,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"AGH-Events",00:23:33:2c:11:f3,[ESS][BLE],2412 MHz,Channel 1,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"",00:1d:0f:e2:75:6a,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][ESS],2467 MHz,Channel 12,-84 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"TP-LINK_E9B0D0",54:e6:fc:e9:b0:d0,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][ESS],2437 MHz,Channel 6,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"HUAWEI_P9_CF7C",02:1a:11:f5:5d:1e,[WPA2-PSK-CCMP][ESS],2437 MHz,Channel 6,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"dd-wrt",00:13:10:92:a6:c8,[WPA2-PSK-CCMP][ESS],2437 MHz,Channel 6,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"Lumia 950 XL 9030",7e:8f:b5:64:f5:8c,[WPA2-PSK-CCMP][WPS][ESS],2462 MHz,Channel 11,-94 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"WRSS_WIMiIP",78:54:2e:f8:46:d0,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS][BLE],2462 MHz,Channel 11,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"Redmi",ec:d0:9f:11:a8:92,[WPA2-PSK-CCMP][ESS],2437 MHz,Channel 6,-96 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"iPhone (Arek)",6e:96:cf:9e:72:43,[WPA2-PSK-CCMP][ESS],2412 MHz,Channel 1,-96 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"KSW-Sekretariat",e8:de:27:b7:6d:1c,[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS],2437 MHz,Channel 6,-94 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 40 MHz
+"UPC Wi-Free",06:7c:34:0c:b1:cd,[WPA-EAP-CCMP+TKIP][WPA2-EAP-CCMP+TKIP][ESS],2447 MHz,Channel 8,-99 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz

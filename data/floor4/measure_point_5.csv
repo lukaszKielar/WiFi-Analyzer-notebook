@@ -1,0 +1,16 @@
+"TP-LINK_408",f8:1a:67:ed:f4:65,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2437 MHz,Channel 6,-70 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 40 MHz
+"",10:bf:48:3b:ff:a7,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2432 MHz,Channel 5,-73 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 40 MHz
+"dd-wrt",00:13:10:92:a6:c8,[WPA2-PSK-CCMP][ESS],2437 MHz,Channel 6,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"NetGear 2.4GHz",c4:04:15:18:3a:b3,[WPA2-PSK-CCMP][WPS][ESS],2462 MHz,Channel 11,-62 dBm,CenterFreq0 2452 MHz,CenterFreq1 0 MHz,ChannelWidth 40 MHz
+"ZIP407",54:e6:fc:b7:38:2e,[WPA2-PSK-CCMP][ESS],2412 MHz,Channel 1,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"ZIP-1",00:0f:66:5b:24:5c,[ESS],2437 MHz,Channel 6,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"AGH-Guest",00:23:33:2c:11:f0,[ESS][BLE],2412 MHz,Channel 1,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"AGH-WPA",00:23:33:2c:11:f1,[WPA-EAP-CCMP][WPA2-EAP-CCMP][ESS][BLE],2412 MHz,Channel 1,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"AGH-Events",00:23:33:2c:11:f3,[ESS][BLE],2412 MHz,Channel 1,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"k121opl",00:1d:0f:fb:20:44,[WPA2-PSK-CCMP-preauth][ESS],2462 MHz,Channel 11,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"OpenWrt",56:e6:fc:b7:38:2f,[ESS],2412 MHz,Channel 1,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"RheaPLUS",8c:79:67:cd:6c:d1,[WPA2-PSK-CCMP][WPS][ESS],2447 MHz,Channel 8,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"eduroam",00:23:33:2c:11:f2,[WPA-EAP-CCMP][WPA2-EAP-CCMP][ESS][BLE],2412 MHz,Channel 1,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"TP-LINK_E9B0D0",54:e6:fc:e9:b0:d0,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][ESS],2437 MHz,Channel 6,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"AGH-Events",00:23:33:2b:da:03,[ESS][BLE],2412 MHz,Channel 1,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"AGH-Guest",00:23:33:2b:da:00,[ESS][BLE],2412 MHz,Channel 1,-95 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz

@@ -1,0 +1,17 @@
+"RheaPLUS",8c:79:67:cd:6c:d1,[WPA2-PSK-CCMP][WPS][ESS],2447 MHz,Channel 8,-85 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"AGH-WPA",00:23:33:2b:da:01,[WPA-EAP-CCMP][WPA2-EAP-CCMP][ESS][BLE],2412 MHz,Channel 1,-53 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"AGH-Guest",00:23:33:2b:da:00,[ESS][BLE],2412 MHz,Channel 1,-53 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"eduroam",00:23:33:2b:da:02,[WPA-EAP-CCMP][WPA2-EAP-CCMP][ESS][BLE],2412 MHz,Channel 1,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"AGH-Events",00:23:33:2b:da:03,[ESS][BLE],2412 MHz,Channel 1,-56 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"B5*601_2.4G",e4:be:ed:13:0c:ba,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2437 MHz,Channel 6,-76 dBm,CenterFreq0 2447 MHz,CenterFreq1 0 MHz,ChannelWidth 40 MHz
+"k121opl",00:1d:0f:fb:20:44,[WPA2-PSK-CCMP-preauth][ESS],2462 MHz,Channel 11,-96 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"iPhone (Michał)",fe:a9:04:1f:c3:f9,[WPA2-PSK-CCMP][ESS],2437 MHz,Channel 6,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"MSM_716",c4:6e:1f:63:fc:66,[WPA2-PSK-CCMP][WPS][ESS],2427 MHz,Channel 4,-94 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 40 MHz
+"TP-LINK_408",f8:1a:67:ed:f4:65,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2437 MHz,Channel 6,-92 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 40 MHz
+"AGH-Guest",00:23:33:2c:18:90,[ESS][BLE],2412 MHz,Channel 1,-96 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"AGH-Events",00:23:33:2c:18:93,[ESS][BLE],2412 MHz,Channel 1,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"Doktoranci 605",54:e6:fc:fd:03:1e,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][ESS],2412 MHz,Channel 1,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"Creative",e4:be:ed:12:c0:5e,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2437 MHz,Channel 6,-96 dBm,CenterFreq0 2447 MHz,CenterFreq1 0 MHz,ChannelWidth 40 MHz
+"AGH-WPA",00:23:33:2c:18:91,[WPA-EAP-CCMP][WPA2-EAP-CCMP][ESS][BLE],2412 MHz,Channel 1,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"dd-wrt",00:13:10:92:a6:c8,[WPA2-PSK-CCMP][ESS],2437 MHz,Channel 6,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"OpenWrt",56:e6:fc:b7:38:2f,[ESS],2412 MHz,Channel 1,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz

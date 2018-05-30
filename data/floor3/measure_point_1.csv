@@ -1,0 +1,19 @@
+"TP-LINK_E9B0D0",54:e6:fc:e9:b0:d0,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][ESS],2437 MHz,Channel 6,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"eduroam",00:23:33:2c:11:f2,[WPA-EAP-CCMP][WPA2-EAP-CCMP][ESS][BLE],2412 MHz,Channel 1,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"AGH-Events",00:23:33:2c:11:f3,[ESS][BLE],2412 MHz,Channel 1,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"AGH-Guest",00:23:33:2c:11:f0,[ESS][BLE],2412 MHz,Channel 1,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"AGH-WPA",00:23:33:2c:11:f1,[WPA-EAP-CCMP][WPA2-EAP-CCMP][ESS][BLE],2412 MHz,Channel 1,-82 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"dd-wrt",00:13:10:92:a6:c8,[WPA2-PSK-CCMP][ESS],2437 MHz,Channel 6,-96 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"k121opl",00:1d:0f:fb:20:44,[WPA2-PSK-CCMP-preauth][ESS],2462 MHz,Channel 11,-97 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"RheaPLUS",8c:79:67:cd:6c:d1,[WPA2-PSK-CCMP][WPS][ESS],2447 MHz,Channel 8,-96 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"eduroam",00:23:33:2b:d3:52,[WPA-EAP-CCMP][WPA2-EAP-CCMP][ESS][BLE],2462 MHz,Channel 11,-94 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"MP",e8:94:f6:e0:53:6a,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2412 MHz,Channel 1,-93 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 40 MHz
+"AGH-Events",00:23:33:2b:d3:53,[ESS][BLE],2462 MHz,Channel 11,-96 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"AGH-WPA",00:23:33:2b:d3:51,[WPA-EAP-CCMP][WPA2-EAP-CCMP][ESS][BLE],2462 MHz,Channel 11,-98 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"AGH-Guest",00:23:33:2b:d3:50,[ESS][BLE],2462 MHz,Channel 11,-96 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"Creative",e4:be:ed:12:c0:5e,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2437 MHz,Channel 6,-91 dBm,CenterFreq0 2447 MHz,CenterFreq1 0 MHz,ChannelWidth 40 MHz
+"iPhone (Michał)",fe:a9:04:1f:c3:f9,[WPA2-PSK-CCMP][ESS],2437 MHz,Channel 6,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"AGH-Events",00:23:33:2b:da:03,[ESS][BLE],2412 MHz,Channel 1,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"AGH-WPA",00:23:33:2b:da:01,[WPA-EAP-CCMP][WPA2-EAP-CCMP][ESS][BLE],2412 MHz,Channel 1,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"eduroam",00:23:33:2b:da:02,[WPA-EAP-CCMP][WPA2-EAP-CCMP][ESS][BLE],2412 MHz,Channel 1,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"lab111",90:f6:52:fe:2d:d0,[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS],2412 MHz,Channel 1,-89 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 40 MHz

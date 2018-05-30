@@ -1,0 +1,12 @@
+"RheaPLUS",8c:79:67:cd:6c:d1,[WPA2-PSK-CCMP][WPS][ESS],2447 MHz,Channel 8,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"AGH-WPA",00:23:33:2b:da:01,[WPA-EAP-CCMP][WPA2-EAP-CCMP][ESS][BLE],2412 MHz,Channel 1,-47 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"AGH-Guest",00:23:33:2b:da:00,[ESS][BLE],2412 MHz,Channel 1,-48 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"dd-wrt",00:13:10:92:a6:c8,[WPA2-PSK-CCMP][ESS],2437 MHz,Channel 6,-94 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"eduroam",00:23:33:2b:da:02,[WPA-EAP-CCMP][WPA2-EAP-CCMP][ESS][BLE],2412 MHz,Channel 1,-45 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"AGH-Events",00:23:33:2b:da:03,[ESS][BLE],2412 MHz,Channel 1,-54 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"B5*601_2.4G",e4:be:ed:13:0c:ba,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2437 MHz,Channel 6,-81 dBm,CenterFreq0 2447 MHz,CenterFreq1 0 MHz,ChannelWidth 40 MHz
+"k121opl",00:1d:0f:fb:20:44,[WPA2-PSK-CCMP-preauth][ESS],2462 MHz,Channel 11,-100 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"iPhone (Michał)",fe:a9:04:1f:c3:f9,[WPA2-PSK-CCMP][ESS],2437 MHz,Channel 6,-78 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"3.hotspot.petroinform.net",68:72:51:1a:83:cd,[ESS],2412 MHz,Channel 1,-96 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 40 MHz
+"MSM_716",c4:6e:1f:63:fc:66,[WPA2-PSK-CCMP][WPS][ESS],2427 MHz,Channel 4,-91 dBm,CenterFreq0 2437 MHz,CenterFreq1 0 MHz,ChannelWidth 40 MHz
+"TP-LINK_408",f8:1a:67:ed:f4:65,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2437 MHz,Channel 6,-93 dBm,CenterFreq0 2427 MHz,CenterFreq1 0 MHz,ChannelWidth 40 MHz

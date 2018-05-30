@@ -1,0 +1,26 @@
+"",10:bf:48:3b:ff:a7,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2432 MHz,Channel 5,-79 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 40 MHz
+"TP-LINK_E9B0D0",54:e6:fc:e9:b0:d0,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][ESS],2437 MHz,Channel 6,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"",00:1d:0f:e2:75:6a,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP-preauth][ESS],2467 MHz,Channel 12,-79 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"eduroam",00:23:33:2c:11:f2,[WPA-EAP-CCMP][WPA2-EAP-CCMP][ESS][BLE],2412 MHz,Channel 1,-80 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"AGH-Events",00:23:33:2c:11:f3,[ESS][BLE],2412 MHz,Channel 1,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"AGH-Guest",00:23:33:2c:11:f0,[ESS][BLE],2412 MHz,Channel 1,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"WLAN1-18DE7J",5c:c3:07:4a:8c:0d,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS][BLE],2422 MHz,Channel 3,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"TP-LINK_7C641D",30:b5:c2:7c:64:1c,[WPA2-PSK-CCMP][WPS][ESS],2412 MHz,Channel 1,-93 dBm,CenterFreq0 2422 MHz,CenterFreq1 0 MHz,ChannelWidth 40 MHz
+"UPC Wi-Free",c6:27:95:85:70:d1,[WPA2-EAP-CCMP+TKIP][ESS][BLE],2437 MHz,Channel 6,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"UPC1821152",c4:27:95:85:70:df,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS][BLE],2437 MHz,Channel 6,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"UPCB8426AC",90:5c:44:cd:9c:eb,[WPA-PSK-][WPA2-PSK-CCMP+TKIP][WPS][ESS][BLE],2437 MHz,Channel 6,-87 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"UPC Wi-Free",92:5c:14:cd:9c:eb,[WPA2-EAP-CCMP+TKIP][ESS][BLE],2437 MHz,Channel 6,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"UPC248636902",64:12:69:c1:ea:1c,[WPA2-PSK-CCMP+TKIP][WPS][ESS][BLE],2462 MHz,Channel 11,-89 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"UPC Wi-Free",92:5c:14:46:de:1f,[WPA2-EAP-CCMP+TKIP][ESS][BLE],2437 MHz,Channel 6,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"HUAWEI_P9_CF7C",02:1a:11:f5:5d:1e,[WPA2-PSK-CCMP][ESS],2437 MHz,Channel 6,-93 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"UPCC7265CD",90:5c:44:46:de:1f,[WPA-PSK-][WPA2-PSK-CCMP+TKIP][WPS][ESS][BLE],2437 MHz,Channel 6,-91 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"RezydencjaCzarnowiejska77",28:be:9b:d2:ed:f0,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS],2462 MHz,Channel 11,-97 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"UPC491321A",54:67:51:bd:fc:bd,[WPA-PSK-][WPA2-PSK-CCMP+TKIP][WPS][ESS][BLE],2412 MHz,Channel 1,-96 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"UPC Wi-Free",56:67:11:c5:52:e3,[WPA2-EAP-CCMP+TKIP][ESS][BLE],2412 MHz,Channel 1,-95 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"Unimetal",14:5f:94:9d:fa:07,[ESS],2427 MHz,Channel 4,-94 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"AGH-WPA",00:23:33:2c:11:f1,[WPA-EAP-CCMP][WPA2-EAP-CCMP][ESS][BLE],2412 MHz,Channel 1,-86 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"FunBox2-DAF6",18:90:d8:90:da:f6,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS],2462 MHz,Channel 11,-92 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"UPC243339347",34:7a:60:72:7a:9a,[WPA2-PSK-CCMP+TKIP][WPS][ESS][BLE],2412 MHz,Channel 1,-97 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"Redmi",ec:d0:9f:11:a8:92,[WPA2-PSK-CCMP][ESS],2437 MHz,Channel 6,-90 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"UPC Wi-Free",56:67:11:bd:fc:bd,[WPA2-EAP-CCMP+TKIP][ESS][BLE],2412 MHz,Channel 1,-99 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"HUAWEI P8 lite",7c:7d:3d:e5:a0:c1,[ESS],2437 MHz,Channel 6,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
